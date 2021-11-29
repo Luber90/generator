@@ -1,7 +1,7 @@
 ﻿  generator.cpp
-C:\Users\Luber\source\repos\generator\generator\generator.cpp(31,30): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+C:\Users\Luber.000\Desktop\generator\generator\generator.cpp(32,30): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
           with
           [
               _Ty=short
           ]
-  generator.vcxproj -> C:\Users\Luber\source\repos\generator\Debug\generator.exe
+  generator.vcxproj -> C:\Users\Luber.000\Desktop\generator\Debug\generator.exe
